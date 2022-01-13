@@ -1,4 +1,4 @@
-## data_structure_implementation | personal project | Shik, Hur
+## data_structure_implementation | personal project
 
 ## General Info
 This project is to implement core data structures mainly used in computer science directly. This project is a personal project to understand memory management and the characteristics of data structures. This project was conducted while reviewing the lab and assignment once again while taking the COMP2200(Unmanaged Programming in C), and COMP3200(Unmanaged Programming in C++) courses of POCU Academy (https://pocu.academy/)
